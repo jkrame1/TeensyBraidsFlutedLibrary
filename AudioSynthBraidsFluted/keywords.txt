@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for AudioSynthBraidsFluted
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AudioSynthBraidsFluted	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+noteOn	KEYWORD2
+noteOff	KEYWORD2
+setTimbre	KEYWORD2
+setColor	KEYWORD2
+setAmplitude	KEYWORD2
+frequency	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
